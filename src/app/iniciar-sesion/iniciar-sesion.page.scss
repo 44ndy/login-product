@@ -1,0 +1,63 @@
+.custom-toolbar {
+  --background: #2c2c2e;
+}
+
+.header-title {
+  color: white;
+  text-align: center;
+  font-weight: bold;
+  position: relative;
+  top: -4px;
+  font-size: 18px;
+}
+
+ion-back-button {
+  color: white;
+  text-transform: lowercase;
+}
+
+.custom-content {
+  --ion-background-color: #1c1c1c;
+}
+
+.custom-list {
+  --background: transparent;
+}
+
+.custom-item {
+  --background: #1c1c1c;
+  color: white;
+  border-bottom: 1px solid #333;
+}
+
+.product-avatar img {
+  border-radius: 8px;
+}
+
+.product-title {
+  font-size: 16px;
+  font-weight: bold;
+  color: white;
+}
+
+.product-price {
+  font-size: 14px;
+  color: #3498db;
+  font-weight: bold;
+}
+
+.product-discount {
+  font-size: 14px;
+  color: #2ecc71;
+}
+
+.chevron-icon {
+  color: white;
+}
+
+.back-button {
+  color: white;
+  font-size: 16px;
+  opacity: 0.7;
+  text-transform: lowercase;
+}
