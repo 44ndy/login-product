@@ -1,0 +1,81 @@
+/* Fondo oscuro y posicionamiento del header */
+.custom-toolbar {
+  --background: #2c2c2e; /* Fondo oscuro */
+}
+
+.header-title {
+  color: white;
+  text-align: center;
+  font-weight: bold;
+  position: relative;
+  top: -4px; /* Ajuste para que el título se vea más arriba */
+  font-size: 18px;
+}
+
+ion-back-button {
+  color: white;
+  text-transform: lowercase; /* Para que "salir" esté en minúsculas */
+}
+
+/* Fondo oscuro del contenido */
+.custom-content {
+  --ion-background-color: #1c1c1c; /* Fondo oscuro principal */
+}
+
+/* Lista personalizada */
+.custom-list {
+  --background: transparent;
+}
+
+.custom-item {
+  --background: #1c1c1c; /* Fondo oscuro para cada item */
+  color: white;
+  border-bottom: 1px solid #333; /* Línea divisoria tenue */
+}
+
+.product-avatar img {
+  border-radius: 8px;
+}
+
+/* Estilos del texto del producto */
+.product-title {
+  font-size: 16px;
+  font-weight: bold;
+  color: white;
+}
+
+.product-price {
+  font-size: 14px;
+  color: #3498db; /* Azul para el precio */
+  font-weight: bold;
+}
+
+.product-discount {
+  font-size: 14px;
+  color: #2ecc71; /* Verde para el porcentaje de descuento */
+}
+
+/* Icono de flecha personalizado */
+.chevron-icon {
+  color: white;
+}
+/* Fondo oscuro y posicionamiento del header */
+.custom-toolbar {
+  --background: #2c2c2e; /* Fondo oscuro */
+}
+
+.header-title {
+  color: white;
+  text-align: center;
+  font-weight: bold;
+  position: relative;
+  top: -4px; /* Ajuste para que el título se vea más arriba */
+  font-size: 18px;
+}
+
+.back-button {
+  color: white;
+  font-size: 16px; /* Tamaño de texto ajustado */
+  opacity: 0.7; /* Menos opacidad para simular el efecto de la imagen */
+  text-transform: lowercase; /* Para que "salir" esté en minúsculas */
+}
