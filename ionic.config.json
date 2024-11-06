@@ -1,0 +1,7 @@
+{
+  "name": "login-product",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
